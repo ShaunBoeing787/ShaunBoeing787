@@ -160,14 +160,14 @@ monitor           Running   logs+alerts  0          never go blind
 
 ---
 
-## `$ ./contribution-snake.sh`
+
+## `$ git log --graph --oneline`
 
 <div align="center">
-  <img src="https://github.com/ShaunBoeing787/ShaunBoeing787/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaunBoeing787&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=contribution+graph" />
 </div>
 
 ---
-
 ## `$ cat achievements.log`
 
 ```diff
@@ -181,16 +181,7 @@ monitor           Running   logs+alerts  0          never go blind
 
 ---
 
-## `$ ping shaunak`
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunak-dhar)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaunBoeing787)
-
-</div>
-
----
 
 ## `$ fortune`
 
