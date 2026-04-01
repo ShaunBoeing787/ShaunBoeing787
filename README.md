@@ -31,6 +31,17 @@ interests   : [Cloud Native, Microservices, Scalable Systems, Startups]
 
 ---
 
+## `$ ping shaunak`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunak-dhar)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaunBoeing787)
+
+</div>
+
+---
+
 ## `$ cat focus.txt`
 
 | Tag | What I'm Working On |
