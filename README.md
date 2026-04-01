@@ -1,133 +1,196 @@
-<h1 align="center">🚀 Shaunak Dhar</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Builder+%7C+Problem+Solver+%7C+Startup+Mindset;Full+Stack+Developer;DSA+Grinder+%F0%9F%92%AA;Turning+Ideas+into+Products&center=true&width=700&height=50">
-</p>
+```
+███████╗██╗  ██╗ █████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗  ██╗
+██╔════╝██║  ██║██╔══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝
+███████╗███████║███████║██║   ██║██╔██╗ ██║███████║█████╔╝ 
+╚════██║██╔══██║██╔══██║██║   ██║██║╚██╗██║██╔══██║██╔═██╗ 
+███████║██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShaunBoeing787&color=blue&style=flat-square">
-  <img src="https://img.shields.io/github/followers/ShaunBoeing787?style=social">
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=FFFFFF&center=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+real+products%2C+not+toy+projects;Open+to+SWE+%2F+Cloud+Internships+%F0%9F%9A%80)
+
+<img src="https://komarev.com/ghpvc/?username=ShaunBoeing787&color=ffffff&style=flat-square&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/ShaunBoeing787?style=flat-square&color=ffffff&labelColor=000000">
+
+</div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
+
+```yaml
+name        : Shaunak Dhar
+location    : VIT University, India
+role        : Full Stack Developer + Cloud Enthusiast
+status      : Open to SWE / Cloud / DevOps internships
+building    : Containerized coding platform (WIP)
+interests   : [Cloud Native, Microservices, Scalable Systems, Startups]
+```
+
+---
+
+## `$ cat focus.txt`
+
+| Tag | What I'm Working On |
+|-----|---------------------|
+| `CLOUD` | Kubernetes orchestration — pods, services, scaling |
+| `CI/CD` | Automated pipelines with GitHub Actions + Docker |
+| `BACKEND` | REST APIs, microservices, scalable Node.js systems |
+| `FRONTEND` | React apps with clean UX and fast load times |
+| `ARCH` | Container-first system design |
+
+---
+
+## `$ tree ./skills`
+
+```
+./skills
+├── frontend/
+│   ├── React
+│   ├── HTML5 + CSS3
+│   └── JavaScript (ES6+)
+│
+├── backend/
+│   ├── Node.js
+│   ├── Express.js
+│   ├── REST APIs
+│   └── Firebase
+│
+├── cloud-devops/
+│   ├── Docker 🐳
+│   ├── Kubernetes
+│   ├── GitHub Actions (CI/CD)
+│   └── Cloudinary
+│
+├── databases/
+│   ├── MongoDB
+│   └── Redis
+│
+└── languages/
+    ├── JavaScript
+    ├── Python
+    └── Bash
+```
+
+---
+
+## `$ ls ./projects`
+
+### 🐳 Coding Platform *(WIP)*
+> Sandboxed code execution — every submission runs inside an isolated Docker container
+
+- Custom test runner + submission evaluator
+- Each submission gets its own container — fully isolated, auto-destroyed
+- Problem editor + user profiles + submission history
+- `Docker` · `Node.js` · `React` · `MongoDB` · `Microservices`
+
+---
+
+### ⌥ LeetCode Helper Extension
+> Chrome extension that sits alongside your coding sessions
+
+- 💡 AI-powered hints when you're stuck
+- 🏆 Friends system + live competitive leaderboard
+- 🔐 Firebase + Google OAuth
+- `Chrome Extension` · `Firebase` · `React` · `Containerized Functions`
+
+---
+
+## `$ cat mindset.dockerfile`
+
+```dockerfile
+# Dockerfile.mindset
+FROM curiosity:latest
+
+WORKDIR /ambition
+
+COPY ideas/ .
+COPY work-ethic/ .
+
+RUN build()      \
+ && break_things() \
+ && learn()      \
+ && repeat()
+
+EXPOSE creativity, products, impact
+
+CMD ["never", "stop", "building"]
+```
+
+---
+
+## `$ kubectl get architecture`
+
+```
+NAME              STATUS    CONTAINERS   RESTARTS   PURPOSE
+containerize      Running   docker       0          package everything
+orchestrate       Running   k8s          0          scale intelligently  
+automate          Running   ci-cd        0          ship continuously
+monitor           Running   logs+alerts  0          never go blind
+```
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaunBoeing787&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaunBoeing787&theme=black-ice&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunBoeing787&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888"/>
+</div>
+
+---
+
+## `$ ./contribution-snake.sh`
+
+<div align="center">
+  <img src="https://github.com/ShaunBoeing787/ShaunBoeing787/blob/output/github-contribution-grid-snake-dark.svg">
+</div>
+
+---
+
+## `$ cat achievements.log`
 
 ```diff
-+ 🎓 VIT Student
-+ 💻 Passionate about DSA, Full Stack & System Design
-+ 🚀 Building real-world startup-style projects
-+ 🧩 Currently grinding NeetCode 150 in C++
-+ ⚡ Love hackathons, competitions & fast-paced building
++ ✅ Building containerized, production-grade web apps
++ ✅ Strong foundation in full stack (frontend + backend)
++ ✅ Hands-on with Docker, CI/CD pipelines, cloud deployment
++ 🔄 Exploring Kubernetes and cloud-native architecture
++ 🎯 Targeting top SWE / Cloud / DevOps internships
++ 💡 Long-term: Scalable startup + impactful cloud products
 ```
 
 ---
 
-## ⚡ Current Focus
+## `$ ping shaunak`
 
-* 🔥 Mastering **Data Structures & Algorithms (C++)**
-* 🌐 Building a **LeetCode-style coding platform**
-* 🧑‍🤝‍🧑 Chrome Extension with **Friends + Leaderboard system**
-* 🏗️ Exploring **Backend Scaling & System Design**
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunak-dhar)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaunBoeing787)
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,mongodb,cloudinary" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `$ fortune`
 
-### 🧩 LeetCode Helper Extension
-
-> Smart coding assistant
-
-* 💡 AI-based hints
-* 🧑‍🤝‍🧑 Friends leaderboard
-* 🔐 Firebase + Google Auth
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaunBoeing787&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaunBoeing787E&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunBoeing787&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github.com/ShaunBoeing787/ShaunBoeing787/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 🧠 Developer Mindset
-
-```cpp
-while(true) {
-    build();
-    breakThings();
-    learn();
-    repeat();
-}
+```
+"Ship containers, not just code.
+ Discipline beats motivation.
+ Systems beat goals."
 ```
 
 ---
 
-## 🏆 Achievements & Goals
-
-* 🚀 Building scalable real-world products
-* 🧠 Strong foundation in DSA & problem solving
-* 🏆 Aiming for top tech internships
-* 💡 Future: Startup + impactful tech products
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="www.linkedin.com/in/shaunak-dhar">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="ShaunBoeing787">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-## 🔥 Quote I Live By
-
-> "Discipline beats motivation. Systems beat goals."
-
----
-
-<p align="center">
-  ⭐️ If you like what I build, consider following!
-</p>
+<div align="center">
+  <sub>⭐ If you like what I build — drop a follow. Always open to collabs and interesting problems.</sub>
+</div>
