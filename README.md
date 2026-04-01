@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social">
+  <img src="https://komarev.com/ghpvc/?username=ShaunBoeing787&color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/followers/ShaunBoeing787?style=social">
 </p>
 
 ---
@@ -56,26 +56,6 @@
 
 ## 🚀 Featured Projects
 
-### 🍔 VSpice
-
-> Peer-to-peer food delivery platform for VIT
-
-* 🤝 Students deliver to students
-* 💰 Earn while helping others
-* 🌱 Supports local campus vendors
-
----
-
-### 📅 Smart Student Scheduler
-
-> Personalized productivity engine
-
-* 🧠 Smart scheduling logic
-* 📊 Time optimization
-* 🎯 Focus tracking
-
----
-
 ### 🧩 LeetCode Helper Extension
 
 > Smart coding assistant
@@ -89,12 +69,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaunBoeing787&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaunBoeing787E&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunBoeing787&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -102,7 +82,7 @@
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/ShaunBoeing787/ShaunBoeing787/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
